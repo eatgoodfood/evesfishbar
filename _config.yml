@@ -7,14 +7,36 @@
 
 # Site settings
 title: Eve's Fish Bar
+brand_1: Restaurant Eve
+brand_1_url: http://restauranteve.com
+brand_2: Society Fair
+brand_2_url: http://societyfair.net
+brand_3: BarPX
+brand_3_url: http://barpx.com
+brand_4: Eamonn's
+brand_4_url: http://eamonnsdublinchipper.com
 email: webmaster@eatgoodfoodgroup.com
 description: > # this means to ignore newlines until "baseurl:"
   Eve's Fish Bar is a new venture by the eat good food group
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://evesfishbar.com" # the base hostname & protocol for your site
+
+# Assets
+cdn_path: https://dl.dropboxusercontent.com/u/6041318/eatgoodfoodgroup.com
+
+# Social media accounts
 twitter_username_eamonns: eamonnschipper
+twitter_username_eve: restaurant_eve
+twitter_username_sf: societyfair
+twitter_username_px: BarPX
 facebook_username_eamonns: EamonnsADublinChipper
+facebook_username_eve: restauranteve
+facebook_username_sf: societyfair
+facebook_username_px: BarPX
 instagram_username_eamonns: EamonnsADublinChipper
+instagram_username_eve: restaurant_eve
+instagram_username_sf: societyfair
+instagram_username_px: barpx
 
 # Build settings
 markdown: kramdown
